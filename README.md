@@ -1,4 +1,4 @@
-# Robot Arm Movement and Planning System
+# Robot Arm Movement and Planning System 🦾 🦿
 
 This project is a simulation of a robot arm movement and planning system. It allows users to visualize the movement of a robot arm in a 2D space, 
 taking into account various obstacles and target coordinates.**
