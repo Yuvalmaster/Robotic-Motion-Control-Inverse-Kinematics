@@ -1,14 +1,16 @@
-**This project is a simulation of a robot arm movement and planning system. It allows users to visualize the movement of a robot arm in a 2D space, 
+# Robot Arm Movement and Planning System
+
+This project is a simulation of a robot arm movement and planning system. It allows users to visualize the movement of a robot arm in a 2D space, 
 taking into account various obstacles and target coordinates.**
 
-**Packages**
+## Packages
 The project utilizes the following packages:
 
 - numpy: A package for scientific computing with Python.
 matplotlib: A plotting library for creating visualizations in Python.
 - mpl_toolkits.mplot3d: A package for creating 3D plots in matplotlib.
 
-**Robot Arm Class**
+## Robot Arm Class
 The robot_arm class defines the parameters and functions related to the robot arm. It includes the following components:
 
 - Robot Constants: Defines the length of each segment of the robot arm, joint angle limits, and obstacle locations.
