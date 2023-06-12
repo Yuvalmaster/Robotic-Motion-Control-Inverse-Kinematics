@@ -30,5 +30,6 @@ This section demonstrates the movement planning of the robot arm from the starti
 It plots the 2D space, including the upper and lower limits, obstacles, starting coordinates, and target coordinates. 
 The movement planning is achieved using attraction and repulsion potentials to guide the end-effector towards the target while avoiding collisions.
 
+## Add Info.
 requirements.txt: This file lists the required dependencies and their versions for running the project. 
 It is recommended to set up a conda virtual environment and install the dependencies using ```conda install --file requirements.txt```
